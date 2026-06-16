@@ -1,2 +1,25 @@
-# e7dd47b6-government-contracts-spreads
-Stop losing money on government contracts because of miscalculated overhead rates and missed compliance deadlines—this bundle turns your spreadsheets into a profit-protecting machine.  The Government &amp; Contracts Spreadsheet Calculator Bundle eliminates the guesswork from cost estimation, indirect rate calculations, and contract compliance tracking.
+# Government & Contracts Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm3cvaDd0bW1deeM4d0p0r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm3cvaDd0bW1deeM4d0p0r)
+
